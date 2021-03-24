@@ -28,3 +28,4 @@ htmlcov/
 .envrc
 .direnv
 
+.env
