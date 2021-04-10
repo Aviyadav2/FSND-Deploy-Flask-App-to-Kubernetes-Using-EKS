@@ -28,5 +28,7 @@ htmlcov/
 .envrc
 .direnv
 
+
 venv/
 Dockerfile
+.env
